@@ -186,7 +186,7 @@ Oops! There was an error in the "Keep Alive" process. Don't worry, it won't take
         print(f"{Fore.MAGENTA}[@] All accounts processed.{Style.BRIGHT}")
         print(f"{Fore.GREEN}[+] Total points from all users: {total_points_all_users}{Style.BRIGHT}")
 
-        countdown(181)
+        countdown(900)
         print(f"\n{Fore.GREEN}[✓] Restarting the process...{Style.BRIGHT}\n")
 
 if __name__ == "__main__":
